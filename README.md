@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm Akshat SACHAN- aka CrpytoCoderAS 👋
+### Hi there, I'm Akshat SACHAN- aka CryptoCoderAS 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sachanAK6121?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FsachanAK6121&screen_name=sachanAK6121)
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning and exploring everything 😅
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love photography and chess
+- ⚡ Fun fact: I love Photography and Chess
 
 ### Connect with me:
 
