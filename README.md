@@ -48,11 +48,12 @@ Here are some ideas to get you started:
 
 ### Languages, Tools & Framework:
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=red")
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
-![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
 ![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart)
+![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -75,8 +76,8 @@ Here are some ideas to get you started:
   <p> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=CRYPTOcoderAS&theme=radical&layout=compact&show_icons=true" alt="CRYPTOcoderAS" /><br/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRYPTOcoderAS&theme=radical&layout=compact&hide=html" alt="CRYPTOcoderAS" /> 
-  <img align="center" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=CRYPTOcoderAS&show_icons=true&theme=tokyonight"/>
-  <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=CRYPTOcoderAS&theme=react-dark"/>
+  
+  <img align="right" height="320" width="860" src="https://activity-graph.herokuapp.com/graph?username=CRYPTOcoderAS&theme=react-dark"/>
     
   </p>
 
