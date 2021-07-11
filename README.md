@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  ### Hi there, I'm Akshat SACHAN- aka CryptoCoderAS 👋
 -->
-
+ <img align="right" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/code.gif?raw=true" width="500" height="420" />
 
 
  ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&lines=Hey+👋,+I'm+Akshat+SACHAN)
