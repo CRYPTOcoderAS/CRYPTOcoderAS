@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  ### Hi there, I'm Akshat SACHAN- aka CryptoCoderAS 👋
 -->
- <img align="right" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/code.gif?raw=true" width="500" height="420" />
+ 
 
 
  ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&lines=Hey+👋,+I'm+Akshat+SACHAN)
@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 [![Twitter Follow](https://img.shields.io/twitter/follow/sachanAK6121?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FsachanAK6121&screen_name=sachanAK6121)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CRYPTOcoderAS&color=brightgreen)
+
+<img align="centre" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/code.gif?raw=true" width="900" height="420" />
+<br>
 
 ## I'm a Student, Friend and Developer!!
 
