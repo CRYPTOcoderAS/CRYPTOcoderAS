@@ -78,7 +78,9 @@ Here are some ideas to get you started:
 
 
  ### GitHub Stats:
-  
+
+ #### ✨[Skyline View](https://skyline.github.com/CRYPTOcoderAS/2021)
+
   <p> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=CRYPTOcoderAS&theme=radical&layout=compact&show_icons=true" alt="CRYPTOcoderAS" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRYPTOcoderAS&theme=radical&layout=compact&hide=html" alt="CRYPTOcoderAS" /> 
@@ -88,8 +90,10 @@ Here are some ideas to get you started:
 
 
   <img align="right" height="320" width="860" src="https://activity-graph.herokuapp.com/graph?username=CRYPTOcoderAS&theme=react-dark"/>
+
     
   </p>
+
 
 
 
@@ -103,5 +107,4 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/akshat-sachan-58b2921ab/
 [medium]: https://medium.com/
 
-<br> <br>
-##✨ [Skyline View](https://skyline.github.com/salonigupta1/2021)
+
