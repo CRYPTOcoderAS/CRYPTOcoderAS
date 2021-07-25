@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 
 
-  <img align="right" height="320" width="860" src="https://activity-graph.herokuapp.com/graph?username=CRYPTOcoderAS&theme=react-dark"/>
+ <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
 
     
   </p>
