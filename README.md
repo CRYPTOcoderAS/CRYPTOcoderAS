@@ -82,25 +82,17 @@ Here are some ideas to get you started:
  #### ✨[Skyline View](https://skyline.github.com/CRYPTOcoderAS/2021)
 
   <p> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=CRYPTOcoderAS&theme=radical&layout=compact&show_icons=true" alt="CRYPTOcoderAS" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRYPTOcoderAS&theme=radical&layout=compact&hide=html" alt="CRYPTOcoderAS" /> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=CRYPTOcoderAS&theme=algolia&layout=compact&show_icons=true" alt="CRYPTOcoderAS" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRYPTOcoderAS&langs_count=10&theme=algolia&layout=compact&hide=html" alt="CRYPTOcoderAS" /> 
   
  
-
-
-
  <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
 
-    
-  </p>
-
-
-
-
-
-
-
+  
  
+  </p>
+  
+
 
 [twitter]: https://twitter.com/sachanAK6121
 [instagram]: https://instagram.com/
