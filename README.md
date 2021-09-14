@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart)
-![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-darkblue?style=flat-square&logo=Flutter)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -88,12 +88,12 @@ Here are some ideas to get you started:
 
 | Repository 📚 | Tech/Framework 🛠🔧⚙ | Star :star: | 
 |---------|------------|---------|
-| [Portfolio](https://github.com/CRYPTOcoderAS/PortFolio-Flutter-Web) | ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/PortFolio-Flutter-Web?style=for-the-badge) | 
-| [Portfolio](https://github.com/CRYPTOcoderAS/PortFolio-Flutter-Web) | ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/PortFolio-Flutter-Web?style=for-the-badge) | 
-| [Portfolio](https://github.com/CRYPTOcoderAS/PortFolio-Flutter-Web) | ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/PortFolio-Flutter-Web?style=for-the-badge) | 
-| [Portfolio](https://github.com/CRYPTOcoderAS/PortFolio-Flutter-Web) | ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/PortFolio-Flutter-Web?style=for-the-badge) | 
-| [Portfolio](https://github.com/CRYPTOcoderAS/PortFolio-Flutter-Web) | ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/PortFolio-Flutter-Web?style=for-the-badge) | 
-| [Portfolio](https://github.com/CRYPTOcoderAS/PortFolio-Flutter-Web) | ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/PortFolio-Flutter-Web?style=for-the-badge) | 
+| [Portfolio](https://github.com/CRYPTOcoderAS/PortFolio-Flutter-Web) | ![Flutter](https://img.shields.io/badge/-Flutter-darkblue?style=flat-square&logo=Flutter) ![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/PortFolio-Flutter-Web?style=for-the-badge)  | 
+| [RentALL](https://github.com/CRYPTOcoderAS/RentALL-Flutter) | ![Flutter](https://img.shields.io/badge/-Flutter-darkblue?style=flat-square&logo=Flutter) ![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/RentALL-Flutter?style=for-the-badge) | 
+| [Digi-Queue](https://github.com/CRYPTOcoderAS/Digi-Queue) | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/Digi-Queue?style=for-the-badge) | 
+| [SRM Time-Table](https://github.com/CRYPTOcoderAS/SRM-TimeTable) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)| ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/SRM-TimeTable?style=for-the-badge) | 
+| [Local-Vocal](https://github.com/CRYPTOcoderAS/SEPM--LocalVocal) | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/SEPM--LocalVocal?style=for-the-badge) | 
+| [On Air Drawing](https://github.com/CRYPTOcoderAS/On-Air-Drawing) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![OpenCV](https://img.shields.io/badge/-OpenCV-orange?style=flat-square&logo=opencv) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/On-Air-Drawing?style=for-the-badge) | 
 
 
 
