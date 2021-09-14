@@ -77,14 +77,34 @@ Here are some ideas to get you started:
 
 
 
+
+ 
+ 
+
+  
+### Top Repositories ✨:
+
+
+
+| Repository 📚 | Tech/Framework 🛠🔧⚙ | Star :star: | 
+|---------|------------|---------|
+| [Portfolio](https://github.com/CRYPTOcoderAS/PortFolio-Flutter-Web) | ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/PortFolio-Flutter-Web?style=for-the-badge) | 
+| [Portfolio](https://github.com/CRYPTOcoderAS/PortFolio-Flutter-Web) | ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/PortFolio-Flutter-Web?style=for-the-badge) | 
+| [Portfolio](https://github.com/CRYPTOcoderAS/PortFolio-Flutter-Web) | ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/PortFolio-Flutter-Web?style=for-the-badge) | 
+| [Portfolio](https://github.com/CRYPTOcoderAS/PortFolio-Flutter-Web) | ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/PortFolio-Flutter-Web?style=for-the-badge) | 
+| [Portfolio](https://github.com/CRYPTOcoderAS/PortFolio-Flutter-Web) | ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/PortFolio-Flutter-Web?style=for-the-badge) | 
+| [Portfolio](https://github.com/CRYPTOcoderAS/PortFolio-Flutter-Web) | ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter) | ![GitHub stars](https://img.shields.io/github/stars/CRYPTOcoderAS/PortFolio-Flutter-Web?style=for-the-badge) | 
+
+
+
  ### GitHub Stats:
 
  #### ✨[Skyline View](https://skyline.github.com/CRYPTOcoderAS/2021)
-
   <p> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=CRYPTOcoderAS&theme=algolia&layout=compact&show_icons=true" alt="CRYPTOcoderAS" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRYPTOcoderAS&langs_count=10&theme=algolia&layout=compact&hide=html" alt="CRYPTOcoderAS" /> 
   
+ 
  
  <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
 
