@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img align="centre" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/code.gif?raw=true" width="900" height="420" />
 <br>
 
-## I'm a Student, Friend and Developer!!
+## I'm a Learner, Mentor, Friend and Developer!!
 
 - 🌱 I’m currently learning and exploring everything 😅
 - 👯 I’m looking to collaborate with other developers
