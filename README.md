@@ -39,12 +39,13 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/sachanAK6121" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/akshat-sachan-58b2921ab/" target="_blank">
+<a href="https://www.linkedin.com/in/akshat-sachan-1b0308217/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:akchan6121@protonmail.com" target="_blank">
+<a href="mailto:akchan6121@gmail.com" target="_blank">
  
-<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+<img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
+ 
 </a>
 
 
@@ -116,7 +117,7 @@ Here are some ideas to get you started:
 
 [twitter]: https://twitter.com/sachanAK6121
 [instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/akshat-sachan-58b2921ab/
+[linkedin]: https://www.linkedin.com/in/akshat-sachan-1b0308217/
 [medium]: https://medium.com/
 
 
