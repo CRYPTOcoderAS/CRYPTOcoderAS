@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CRYPTOcoderAS&color=brightgreen)
 
-<img align="centre" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/code.gif?raw=true" width="900" height="420" />
-<br>
+<!-- <img align="centre" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/code.gif?raw=true" width="900" height="420" />
+<br> -->
 
+<img align="centre" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/AS.gif?raw=true" width="400" height="400" />
+<br>
 ## I'm a Learner, Mentor, Friend and Developer!!
 
 - 🌱 I’m currently learning and exploring everything 😅
