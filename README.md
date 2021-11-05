@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 <!-- <img align="centre" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/code.gif?raw=true" width="900" height="420" />
 <br> -->
 
-<img align="centre" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/AS.gif?raw=true" width="400" height="400" />
+<!-- <img align="centre" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/AS.gif?raw=true" width="400" height="400" />
+<br> -->
+
+<img align="centre" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/download.gif?raw=true" width="300" height="300" />
 <br>
 ## I'm a Learner, Mentor, Friend and Developer!!
 
