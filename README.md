@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 <img align="centre" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/download.gif?raw=true" width="300" height="300" />
 <br>
-## I'm a Learner, Mentor, Friend and Developer!!
 
 - 🌱 I’m currently learning and exploring everything 😅
 - 👯 I’m looking to collaborate with other developers
