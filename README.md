@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning and exploring everything 😅
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Chess
+- 🥅 2022 Goals: Work in Progress !
+- ⚡ Hobbies: Chess, Music, Puzzles
 
 ### Connect with me:
 
