@@ -63,7 +63,6 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=red")
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 
 #### APP DEVELOPMENT
 ![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart)
