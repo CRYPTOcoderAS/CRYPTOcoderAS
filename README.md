@@ -59,27 +59,35 @@ Here are some ideas to get you started:
 
 ### Languages, Tools & Framework:
 
+#### LANGUAGES 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=red")
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
+
+#### APP DEVELOPMENT
 ![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-darkblue?style=flat-square&logo=Flutter)
+
+#### WEB DEVELEOPMENT
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+#### DATABASES
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+#### VERSION CONTROLS
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-
-
-
+#### AR/VR
+![Unity](https://img.shields.io/badge/-Unity-00599C?style=flat-square&logo=Unity)
+![Blender](https://img.shields.io/badge/-Blender-E34F26?style=flat-square&logo=Blender)
 
 
 
