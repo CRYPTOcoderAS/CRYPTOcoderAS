@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <img align="centre" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/download.gif?raw=true" width="300" height="300" />
 <br>
 
-- 🌱 I’m currently learning and exploring everything 😅
+- 🌱 I’m still and will always be learning and exploring things 😅
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Work in Progress !
+- 🥅 2023 Goals: Work in Progress !
 - ⚡ Hobbies: Chess, Music, Puzzles
 
 ### Connect with me:
